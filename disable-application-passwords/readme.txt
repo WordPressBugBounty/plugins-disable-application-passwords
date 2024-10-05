@@ -9,9 +9,9 @@ Author URI: https://plugin-planet.com/
 Donate link: https://monzillamedia.com/donate.html
 Contributors: specialk
 Requires at least: 5.6
-Tested up to: 6.6
-Stable tag: 2.0
-Version:    2.0
+Tested up to: 6.7
+Stable tag: 2.1
+Version:    2.1
 Requires PHP: 5.6.20
 Text Domain: disable-application-passwords
 Domain Path: /languages
@@ -23,7 +23,7 @@ Activate this plugin to disable the Application Passwords feature that was added
 
 == Description ==
 
-> Does one thing: disables the "Application Passwords" feature.
+Does one thing: disables the "Application Passwords" feature.
 
 Activate this plugin to completely disable the new Application Passwords functionality (added in WP version 5.6). To re-enable Application Passwords, simply deactivate the plugin.
 
@@ -118,9 +118,9 @@ Send any questions or feedback via my [contact form](https://plugin-planet.com/s
 If you like Disable Application Passwords, please take a moment to [give a 5-star rating](https://wordpress.org/support/plugin/disable-application-passwords/reviews/?rate=5#new-post). It helps to keep the plugin going strong, and is greatly appreciated.
 
 
-**2.0 (2024/06/19)**
+**2.1 (2024/10/04)**
 
-* Tests on WordPress 6.6
+* Tests on WordPress 6.7
 
 
 Full changelog @ [https://plugin-planet.com/wp/changelog/disable-application-passwords.txt](https://plugin-planet.com/wp/changelog/disable-application-passwords.txt)

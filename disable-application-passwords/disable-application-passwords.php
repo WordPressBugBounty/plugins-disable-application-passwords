@@ -9,9 +9,9 @@
 	Donate link: https://monzillamedia.com/donate.html
 	Contributors: specialk
 	Requires at least: 5.6
-	Tested up to: 6.6
-	Stable tag: 2.0
-	Version:    2.0
+	Tested up to: 6.7
+	Stable tag: 2.1
+	Version:    2.1
 	Requires PHP: 5.6.20
 	Text Domain: disable-application-passwords
 	Domain Path: /languages
