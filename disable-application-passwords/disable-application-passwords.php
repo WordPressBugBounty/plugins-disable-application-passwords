@@ -9,9 +9,9 @@
 	Donate link: https://monzillamedia.com/donate.html
 	Contributors: specialk
 	Requires at least: 5.6
-	Tested up to: 6.8
-	Stable tag: 2.2
-	Version:    2.2
+	Tested up to: 6.9
+	Stable tag: 2.4
+	Version:    2.4
 	Requires PHP: 5.6.20
 	Text Domain: disable-application-passwords
 	Domain Path: /languages
@@ -32,7 +32,7 @@
 	You should have received a copy of the GNU General Public License
 	with this program. If not, visit: https://www.gnu.org/licenses/
 	
-	Copyright 2025 Monzilla Media. All rights reserved.
+	Copyright 2020-2026 Monzilla Media. All rights reserved.
 */
 
 if (!defined('ABSPATH')) die();
